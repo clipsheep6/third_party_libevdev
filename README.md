@@ -1,4 +1,4 @@
-# 
+# Introduction
 libevdev is a wrapper library for evdev devices. it moves the common tasks when dealing with evdev devices into a library and provides a library interface to the callers, thus avoiding erroneous ioctls, etc.
 
 The eventual goal is that libevdev wraps all ioctls available to evdev devices, thus making direct access unnecessary.
@@ -14,10 +14,10 @@ All released versions can be found at: https://www.freedesktop.org/software/libe
 
 # git Repository
 https://gitlab.freedesktop.org/libevdev/libevdev
-Documentation
-For current and previous releases: http://www.freedesktop.org/software/libevdev/doc/
-For current development version
+
+# Documentation
+- For current and previous releases: http://www.freedesktop.org/software/libevdev/doc/
+- For current development version https://www.freedesktop.org/software/libevdev/doc/latest/
 
 # Downloads
 Source tarballs are available http://www.freedesktop.org/software/libevdev/
-
