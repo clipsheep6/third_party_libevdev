@@ -26,7 +26,7 @@ README.OpenSource           开源说明
 ```c
 public_deps += ["//third_party/libevdev:libevdev"]
 ```
-### 3.调用OpenCL函数过程举例
+### 3.调用libevdev函数过程举例
 ```c
 // 下面是一个简单的示例，展示了如何使用libevdev。此示例打开一个设备，检查相对坐标和鼠标左键，如果找到，则监听设备并打印输入事件
 
