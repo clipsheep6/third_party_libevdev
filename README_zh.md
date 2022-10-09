@@ -66,7 +66,7 @@ do {
 } while (rc == 1 || rc == 0 || rc == -EAGAIN);
 ```
 
-## OpenCL使用文档
+## libevdev使用文档
 
 代码仓库 https://gitlab.freedesktop.org/libevdev/libevdev.git
 
